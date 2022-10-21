@@ -19,3 +19,9 @@ ol{
     color: aliceblue
 }
 
+.titulo h1{
+
+    display: flex;
+}
+
+
