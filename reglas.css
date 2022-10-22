@@ -1,16 +1,11 @@
 
 
-
-input{ 
-
-color: rgba(7, 7, 7, 0.247);
-
-}
+    
 
 .fondo {
 
    
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(8,10,62,1) 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgb(63, 62, 110) 0%, rgb(57, 59, 129) 35%, rgb(52, 118, 131) 100%);
 
 
 }
@@ -19,10 +14,33 @@ color: rgba(7, 7, 7, 0.247);
 h1 {
 
 
-flex-wrap: wrap;
 
-color: #fefeff;
+color: #fffefe;
+text-decoration-line: overline;
 
 font-family: 'Source Code Pro', monospace;
+
+}
+
+.pre {
+    list-style-type: none;
+    flex-direction: row
+    font-family: 'Source Code Pro', monospace;
+    
+
+    color: #fefeff;
+}
+
+body {
+
+    font-family: 'Source Code Pro', monospace;
+    
+}
+
+
+title {
+
+    
+
 
 }
