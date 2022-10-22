@@ -24,11 +24,10 @@ font-family: 'Source Code Pro', monospace;
 
 .pre {
     list-style-type: none;
-    flex-direction: row
+
     font-family: 'Source Code Pro', monospace;
     
 
-    color: #fefeff;
 }
 
 body {
@@ -38,9 +37,6 @@ body {
 }
 
 
-title {
+
 
     
-
-
-}
