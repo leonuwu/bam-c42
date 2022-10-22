@@ -7,8 +7,7 @@ body{
     font-family: 'Source Code Pro', monospace;
     margin: auto;
     padding: 30px 30px 30px 30px;
-    
-
+    overflow: hidden;
 }
 
 header {
@@ -19,6 +18,8 @@ margin-right: 0%;
 text-align: left;
 padding: 0%;
 background-color: rgb(177, 133, 133);
+border-radius: 20px;
+
 
 }
 
@@ -44,7 +45,7 @@ div nav ul {
 background-color: #777;
 display: flex; 
 display: inline-flex;
-
+border-radius: 20px;
 
 
 
@@ -56,8 +57,8 @@ padding: 1%;
 
 
 .home {
-
-margin-right: 20px;
+ border-radius: 20px;
+margin-right: 25px;
 background-color: mediumaquamarine;
 
 
@@ -65,22 +66,22 @@ background-color: mediumaquamarine;
 }
 
 .contact {
-
+    border-radius: 20px;
     background-color: mediumaquamarine;
-margin-right: 20px;
+margin-right: 25px;
 
 }
 
 .nos {
-
+    border-radius: 20px;
     background-color: mediumaquamarine;
-
+    margin-right: 25px;
 }
 
 
 
 iframe {
-     
+    border-radius: 20px;
     padding: 1%;
     background-color: rgba(122, 206, 206, 0.623);
     
@@ -93,7 +94,7 @@ iframe {
 
 
 article { 
-
+border-radius: 20px;
 padding: 1%;
 width: auto;
 background-color: #d19f9f;
@@ -104,7 +105,7 @@ display: inline-block;
 }
 
 section {
-
+   
 width: auto;
 height: auto;
 }
@@ -113,7 +114,7 @@ height: auto;
 
 
 footer p {
-
+border-radius: 20px;
 text-align: center;
 padding: 10px;
 background-color: #777;
