@@ -6,8 +6,8 @@ body{
 
     font-family: 'Source Code Pro', monospace;
     margin: auto;
-    padding: 30px 30px 30px 30px;
-   
+    padding: 0%;
+
 }
 
 header {
@@ -86,7 +86,8 @@ iframe {
     border-radius: 20px;
     padding: 1%;
     background-color: rgba(122, 206, 206, 0.623);
-    
+    width: 300px;
+    height: 200px;
     
 
 
@@ -119,11 +120,23 @@ footer p {
 border-radius: 20px;
 text-align: center;
 padding: 10px;
-background-color: #777;
-display: inline-flexbox
-
+background-color: rgb(201, 146, 146);
+display: inline-flexbox;
 
 
 }
 
 
+div aside h3 {
+    display:inline-block;
+
+background-color: rgb(202, 140, 140);
+content: normal;
+border-radius: 20px;
+padding: 10px;
+margin: auto;
+
+
+
+
+}
